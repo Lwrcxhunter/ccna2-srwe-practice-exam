@@ -1,0 +1,12 @@
+{
+  "name": "cisco-netacad-practice-exam",
+  "version": "1.0.0",
+  "description": "Cisco NetAcad CCNA 2 v7.0 (SRWE) Final Practice Exam Items 1-89",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["cisco", "netacad", "ccna", "exam", "practice"],
+  "author": "",
+  "license": "ISC"
+}
